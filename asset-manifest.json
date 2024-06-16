@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SlothWebsite/static/css/main.e5e909eb.css",
+    "main.js": "/SlothWebsite/static/js/main.42bd727e.js",
+    "static/js/453.26c3f9b3.chunk.js": "/SlothWebsite/static/js/453.26c3f9b3.chunk.js",
+    "index.html": "/SlothWebsite/index.html",
+    "main.e5e909eb.css.map": "/SlothWebsite/static/css/main.e5e909eb.css.map",
+    "main.42bd727e.js.map": "/SlothWebsite/static/js/main.42bd727e.js.map",
+    "453.26c3f9b3.chunk.js.map": "/SlothWebsite/static/js/453.26c3f9b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5e909eb.css",
+    "static/js/main.42bd727e.js"
+  ]
+}
