@@ -15,3 +15,11 @@ button:hover {
   background-color: #f3b671; /* Green */
   border-color: orange;
 }
+
+h6 {
+  color:#898c8f;
+  transition-duration: 0.4s;
+}
+h6:hover{
+  color:#3f4041
+}
